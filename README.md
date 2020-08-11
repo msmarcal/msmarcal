@@ -17,9 +17,9 @@
 ---
 
 [![msmarcal's github stats](https://github-readme-stats.vercel.app/api?username=msmarcal)](https://github.com/msmarcal)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmarcal&layout=compact)](https://github.com/msmarcal)
-
+-->
 [website]: http://smarcal.com
 [twitter]: https://twitter.com/msmarcal
 [linkedin]: https://linkedin.com/in/msmarcal
