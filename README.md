@@ -1,6 +1,6 @@
 
 
-[![msmarcal's github stats](https://github-readme-stats.vercel.app/api?username=amsmarcal)](https://github.com/anuraghazra/github-readme-stats)
+[![msmarcal's github stats](https://github-readme-stats.vercel.app/api?username=amsmarcal)](https://github.com/msmarcal)
 
 <!--
 Here are some ideas to get you started:
