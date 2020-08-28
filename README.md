@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcelo Marcal  aka msmarcal
 
-## I'm a Biker, Geek, Developer and Hypnotist
+## I'm a Biker, Geek, Developer, and Hypnotist
 
 - 🔭 I’m currently working for <img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canonical.svg" /> [Canonical](https://canonical.com/), the publisher of <img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /> [Ubuntu](https://ubuntu.com/)
 - 🌱 I’m currently learning Juju charm [Operator Framework](https://github.com/canonical/operator)
