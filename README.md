@@ -6,6 +6,13 @@
 - 🌱 I’m currently learning Juju charm [Operator Framework](https://github.com/canonical/operator)
 - 💬 Ask me about anything
 
+### Now playing:
+
+<a href="https://spotify-now-playing-eta.vercel.app/now-playing?open">
+    <img src="https://spotify-now-playing-eta.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
+
 ### Connect with me:
 
 [<img align="left" alt="smarcal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,11 +21,7 @@
 
 <br />
 
-### Now playing
 
-<a href="https://spotify-now-playing-eta.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-eta.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
 
 ---
 
