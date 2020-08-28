@@ -14,6 +14,12 @@
 
 <br />
 
+### Now playing
+
+<a href="https://spotify-now-playing-eta.vercel.app/now-playing?open">
+    <img src="https://spotify-now-playing-eta.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 ---
 
 [![msmarcal's github stats](https://github-readme-stats.vercel.app/api?username=msmarcal)](https://github.com/msmarcal)
