@@ -21,6 +21,5 @@
 
 <br />
 
-[website]: http://smarcal.com
 [twitter]: https://twitter.com/msmarcal
 [linkedin]: https://linkedin.com/in/msmarcal
